@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/document-service/document-service.iml" filepath="$PROJECT_DIR$/document-service/document-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rib-service/rib-service.iml" filepath="$PROJECT_DIR$/rib-service/rib-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-amqp-sample.iml" filepath="$PROJECT_DIR$/spring-amqp-sample.iml" />
+    </modules>
+  </component>
+</project>
